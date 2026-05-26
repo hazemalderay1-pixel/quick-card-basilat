@@ -47,20 +47,20 @@ document.addEventListener("DOMContentLoaded", () => {
     // الإعدادات الافتراضية لكل نموذج
     const templateSettings = {
         template1: {
-            fontFamily: "Cairo",
+            fontFamily: "IBM Plex Sans Arabic",
             fontSize: 30,
             xPercent: 50,
-            yPercent: 52,
+            yPercent: 54,
             color: "#2D5E41",
-            fontWeight: "normal"
+            fontWeight: "bold"
         },
         template2: {
-            fontFamily: "Cairo",
+            fontFamily: "IBM Plex Sans Arabic",
             fontSize: 30,
             xPercent: 50,
-            yPercent: 52,
+            yPercent: 48,
             color: "#2D5E41",
-            fontWeight: "normal"
+            fontWeight: "bold"
         }
     };
 
