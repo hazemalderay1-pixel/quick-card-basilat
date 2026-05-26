@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
             fontFamily: "IBM Plex Sans Arabic",
             fontSize: 30,
             xPercent: 50,
-            yPercent: 54,
+            yPercent: 48,
             color: "#2D5E41",
             fontWeight: "bold"
         },
@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", () => {
             fontFamily: "IBM Plex Sans Arabic",
             fontSize: 30,
             xPercent: 50,
-            yPercent: 48,
+            yPercent: 54,
             color: "#2D5E41",
             fontWeight: "bold"
         }
